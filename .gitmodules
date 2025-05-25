@@ -10,3 +10,6 @@
 [submodule "cretf_config"]
 	path = cretf_config
 	url = https://github.com/Cuog2805/cretf_config.git
+[submodule "cretf_ml_vietnam_housing_price_predict"]
+	path = cretf_ml_vietnam_housing_price_predict
+	url = https://github.com/Cuog2805/cretf_ml_vietnam_housing_price_predict.git
