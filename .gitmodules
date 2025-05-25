@@ -1,0 +1,12 @@
+[submodule "cretf_fe"]
+	path = cretf_fe
+	url = https://github.com/Cuog2805/cretf_fe.git
+[submodule "cretf_fe_admin"]
+	path = cretf_fe_admin
+	url = https://github.com/Cuog2805/cretf_fe_admin.git
+[submodule "cretf_backend"]
+	path = cretf_backend
+	url = https://github.com/Cuog2805/cretf_backend.git
+[submodule "cretf_config"]
+	path = cretf_config
+	url = https://github.com/Cuog2805/cretf_config.git
